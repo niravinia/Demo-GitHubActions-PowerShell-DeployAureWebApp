@@ -1,4 +1,4 @@
-# Demo-GitHubActions-PowerShell-DeployAureWebApp
+# Demo GitHubActions PowerShell DeployAureWebApp
 
 After reviewing, fork this repo and add your Azure Service Principal Tenant ID and Password to see it in action.
 
